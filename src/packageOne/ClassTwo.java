@@ -5,6 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class ClassTwo {
+	//Class Two
 	
 	@Test
 	  public void testTwo(){

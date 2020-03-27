@@ -5,9 +5,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class ClassOne {
-	//This is class one
-	//This is a test origin method
-  //This is comment
+	
   @Test
   public void testOne(){
 	  
